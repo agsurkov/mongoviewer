@@ -1,2 +1,1 @@
-# mongoviewer
-simple tool to look at mongo dbs
+The repository was cleaned.
